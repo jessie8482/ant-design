@@ -18,16 +18,16 @@ import { Cascader } from 'antd';
 
 const options = [
   {
-    value: 'zhejiang',
-    label: 'Zhejiang',
+    value: '浙江省',
+    label: '浙江省',
     children: [
       {
-        value: 'hangzhou',
-        label: 'Hangzhou',
+        value: '杭州市',
+        label: '杭州市',
         children: [
           {
-            value: 'xihu',
-            label: 'West Lake',
+            value: '西湖区',
+            label: '西湖区',
           },
         ],
       },
